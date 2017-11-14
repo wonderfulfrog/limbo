@@ -1,0 +1,44 @@
+show_message("VOICE: Welcome, little one.");
+show_message("GREENGUY: Where am I?, Why am I here?");
+show_message("VOICE: Your time on the plane of the living has ended, and now you are are in the world between worlds, Limbo... and I am the Creator. ");
+show_message("GREENGUY: So what does that mean? Am I stuck here forever?");
+show_message("CREATOR: Well that is not entirely true, I will give you one chance to return to your real body.");
+show_message("CREATOR: If you can surpass the challenges ahead of you, I shall return you to your world.");
+show_message("CREATOR: But, if you fail, you shall spend the rest of eternity in the afterlife.");
+show_message("GREENGUY: I guess I don't have much of a choice here, I accept your challenge.");
+show_message("CREATOR: Oh, and if you feel the need to launch yourself in an upwards direction... imagine jumping off a trampoline in the shape of a Z.");
+show_message("CREATOR: Enter the door on the right when you are ready.");
+
+
+
+show_message("Um...  HellO? Oh weird...  It's a pig.");
+show_message("PIG: Oink.");
+show_message("PIG: Oink. (It looks like the Creator trapped another soul.)");
+show_message("GREENGUY: Whaaa?! Who said that?!");
+show_message("PIG: Snort. (I am Ezekiel, an angel that has been turned into a pig by the Creator.)");
+show_message("GREENGUY: I guess that would explain the wings, I'm Zinnober... How are you talking to me?");
+show_message("EZEKIEL: Oink. (I'm using telekenisis.)");
+show_message("ZINNOBER: Neat. So... Do you wanna come with me and try to escape this maze?");
+show_message("EZEKIEL: Snort, Oink. (I suppose, although I've allready tried countless times and I'm sure there is no exit to be found.)");
+show_message("ZINNOBER: Don't be so pesimistic, I'm sure we'll find a way out eventually.");
+show_message("EZEKIEL: Oink.(I really don't think so... By the way don't get all excited thinking I can fly, the Creator removed one of my wings so now I can only glide for a short period.)");
+show_message("EzEKIEL: Snort.(you can do this by imagining you are mashing potatoes, but instead of potatoes, the thing that you are mashing is something that is Z shaped.)");
+show_message("EzEKIEL: Oink! (Oh, and one last thing.  Try thinking of an X whenever you want to switch to me.)");
+
+
+
+show_message("ZINNOBER: Hey! There's someone over there!");
+show_message("EZEKIEL: Oink. (That's Cyaneous... He's been thousands of years longer than I have.)");
+show_message("CYANEOUS: ...");
+show_message("EZEKIEL: Snort. (He doesn't talk much.)");
+show_message("ZINNOBER: He looks pretty powerful, maybe he'll come with us.");
+show_message("EZEKIEL: Oink, snort. (Ask him if you want, but personally, I couldn't care less what happens.)
+show_message("ZINNOBER: Alright, Hey Cyaneous! Do you want to help us find a way out of this place?");
+show_message("CYANEOUS: ........");
+show_message("ZINNOBER: It looks like hes actually coming!");
+show_message("CYANEOUS: ...I...Punch...If...Hold...C...");
+show_message("ZINNOBER: I have no idea what you are talking about.");
+
+
+
+
